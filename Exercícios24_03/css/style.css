@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1.title{
+    text-align:center;
+    font-family:'Courier New', Courier, monospace;
+}
+body,head{
+    width: 100%;
+    height: 100%;
+    background-color: lightsalmon;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+}
+p{
+    font-size:larger;
+  
+}
+img.ringue{
+    width: 400px;
+    height: 400px;
+    align-self: right;
+    margin-left: 10px;
+    border-radius: 20%;
+}
+p.start{
+    text-align: center;
+}
+iframe{
+ margin-right: 400px;
+ margin-bottom: 100px;
+
+}
+header{
+    background-color: blanchedalmond;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-right: 40px;
+}
+.punch{
+    width: 100px;
+    height: 100px;
+    margin-top: 0;
+    text-align: center;
+    
+}
+div.space{
+    margin-left: 435px;
+}
+h2{
+    margin-left: 435px;
+}
